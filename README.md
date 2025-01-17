@@ -1,8 +1,11 @@
 hello alfredo and/or twinkle
 instructions on updating to stable:
 
-go to files and change the version.txt from 0.0.(whatever) to 0.0.0
+imma be entirely re exporting the files, then the launcher should haddle it. if not:
 
-go to ballin_.exe and rename it to ballin.exe
+ensure line 10 is GAME_FILE = "Ballin.pck" and not anything else;
+line 69 is if not os.path.exists("Ballin.exe"):    ;
+and line 74 is subprocess.run("Ballin.exe")
 
-in the launcher, change line 10 "ballin'.pck" to "Ballin.pck"
+(make sure it never has the ' as that was the problem with the old version)
+
