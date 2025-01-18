@@ -1,8 +1,7 @@
 hello alfredo and/or twinkle
 
 
-HEY YOU
+Heyyy
 
-please update line 10 of your code to GAME_FILE = "Ballin.exe"
-thx
+launcher should be fixed now
 
