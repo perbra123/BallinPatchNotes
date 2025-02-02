@@ -11,6 +11,7 @@ launcher should be fixed now
 - Added TUTORIAL v0.1, acessable from the settings menu.
 - Sound improvement, so now theres Stereo audio and a cool effect in the settings menu (REALLY cool with headphones!!!!)
 - You can now accually throw balls!
+
 !! Bug Fixes !!
 - litterally none
 
