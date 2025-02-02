@@ -5,17 +5,16 @@ Heyyy
 
 launcher should be fixed now
 
-!!!! Patch notes V0.0.8 !!!!!
+!!!! Patch notes V0.0.9 !!!!!
 
 !! New Features !!
-- Added TUTORIAL v0.1, acessable from the settings menu.
-- Sound improvement, so now theres Stereo audio and a cool effect in the settings menu (REALLY cool with headphones!!!!)
-- You can now accually throw balls!
+- Added PHYSICS for the ball!
+- well.... underhand throw broke, so it got removed for now, should be back next update (if im not uber super lazy) (i proably will be)
 
 !! Bug Fixes !!
-- litterally none
+- UI now adapts to your screen size, (ish) i.e. in fullscreen mode. (your welcome Alfredo, this took me too long)
 
-oki doki thats all (i did this at like 9:30 in the morning help)
+anyways scoll for your daily  ((EEEE))
 -- ThatGuy
 
 PS:
