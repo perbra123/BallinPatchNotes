@@ -5,17 +5,20 @@ Heyyy
 
 launcher should be fixed now
 
-!!!! Patch notes V0.0.8 !!!!!
+!!!! Patch notes V0.0.10 !!!!!
 
+Decided to do a wednesday bug-fix. kinda.
 !! New Features !!
-- Added TUTORIAL v0.1, acessable from the settings menu.
-- Sound improvement, so now theres Stereo audio and a cool effect in the settings menu (REALLY cool with headphones!!!!)
-- You can now accually throw balls!
+- new deploy menu (youll see when you hit start)
+- couple of bug fixes
 
 !! Bug Fixes !!
-- litterally none
+- more UI now adapts to your screen size, (ish) i.e. in fullscreen mode. (no, alfredo, it doesnt work very well)
+- quit button accually quits
 
-oki doki thats all (i did this at like 9:30 in the morning help)
+P.S. if you find bugs, STFU, i dont really care.
+
+anyways scoll for your daily  ((EEEE))
 -- ThatGuy
 
 PS:
