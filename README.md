@@ -1,18 +1,21 @@
 hello alfredo and/or twinkle
 
 
-Heyyy
+Motivational quote of the update:
 
-launcher should be fixed now
+Within you lies an unstoppable force—each setback is just a step closer to your greatness. 
+The only limit is the one you place on your dreams
 
-!!!! Patch notes V0.0.10 !!!!!
+jk your not sigma
+
+!!!! 👇 Patch notes V0.0.10 👇!!!!!
 
 Decided to do a wednesday bug-fix. kinda.
-!! New Features !!
+!!✨ New Features ✨!!
 - new deploy menu (youll see when you hit start)
 - couple of bug fixes
 
-!! Bug Fixes !!
+!! Bug Fixes 🪲!!
 - more UI now adapts to your screen size, (ish) i.e. in fullscreen mode. (no, alfredo, it doesnt work very well)
 - quit button accually quits
 
