@@ -16,7 +16,7 @@ Decided to do a wednesday bug-fix. kinda.
 - more UI now adapts to your screen size, (ish) i.e. in fullscreen mode. (no, alfredo, it doesnt work very well)
 - quit button accually quits
 
-P.S. if you find bugs, STFU.
+P.S. if you find bugs, STFU, i dont really care.
 
 anyways scoll for your daily  ((EEEE))
 -- ThatGuy
