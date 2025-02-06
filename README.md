@@ -5,14 +5,18 @@ Heyyy
 
 launcher should be fixed now
 
-!!!! Patch notes V0.0.9 !!!!!
+!!!! Patch notes V0.0.10 !!!!!
 
+Decided to do a wednesday bug-fix. kinda.
 !! New Features !!
-- Added PHYSICS for the ball!
-- well.... underhand throw broke, so it got removed for now, should be back next update (if im not uber super lazy) (i proably will be)
+- new deploy menu (youll see when you hit start)
+- couple of bug fixes
 
 !! Bug Fixes !!
-- UI now adapts to your screen size, (ish) i.e. in fullscreen mode. (your welcome Alfredo, this took me too long)
+- more UI now adapts to your screen size, (ish) i.e. in fullscreen mode. (no, alfredo, it doesnt work very well)
+- quit button accually quits
+
+P.S. if you find bugs, STFU.
 
 anyways scoll for your daily  ((EEEE))
 -- ThatGuy
