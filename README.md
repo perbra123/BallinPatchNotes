@@ -3,20 +3,24 @@ hello alfredo and/or twinkle
 
 Motivational quote of the update:
 
-Unleash your inner storm—every setback fuels your fire, every challenge sharpens your resolve, and every moment is a chance to rewrite your destiny. You are unstoppable, and today is the day you conquer the world!
+"The only way to do great work is to love what you do." — Steve Jobs
 
-jk your still not sigma
+!!!! 👇 Patch notes V0.0.12 👇!!!!!
 
-!!!! 👇 Patch notes V0.0.11 👇!!!!!
-
-Decided to do a wednesday bug-fix. kinda.
+Got bored, then I realised: my fps is ACCUAL FLIPPING DOG WATER. So. I did a setings rework.
 !!✨ New Features ✨!!
-- new animtion when hovering over SECOND character button
-- new menu music sync thing (youll see)
-- one singular bug fixe
+- new thingamabob for settings menu background so that you can see better you blind idiots.
+- sHaDoWs (why the FLUCK DO THEY LOOK SO BAD BRO 😭😭😭)  
+- added the following options to the settings menu:
+    Anti-aliasing mode (None, FXAA, MSAA)
+    Max FPS (No Max, 120, 60, 30)
+    V-Sync (which i HIGHLY recommend for better FPS)
+    Texture and Shadow Quality (which Shadow quality does not really work well)
+    Post-Processing (which i have disabled for the time being, as i dont even know WhAT THE FLIP IT IS)
+- When you click on Play as a team you are sent to a concept screen for online multiplayer
 
 !! Bug Fixes 🪲!!
-- quit button now ACUALLY quits
+- funky ah sound delays fixed (good thing Alfredo never noticed it)
 
 P.S. if you find bugs, STFU, i dont really care.
 
