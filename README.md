@@ -3,38 +3,27 @@ hello alfredo and/or twinkle
 
 Motivational quote of the update:
 
-"The only way to do great work is to love what you do." — Steve Jobs
+"Success is not final, failure is not fatal: it is the courage to continue that counts." — Winston Churchill
 
 
 
-!!!! 👇 Patch notes V0.0.12 👇!!!!!
+!!!! 👇 Patch notes V0.0.13 👇!!!!!
 
-Got bored, then I realised: my fps is ACCUAL FLIPPING DOG WATER. So. I did a setings rework.
+...still bored.
 
 
 !!✨ New Features ✨!!
-- new thingamabob for settings menu background so that you can see better you blind idiots.
-- sHaDoWs (why the FLUCK DO THEY LOOK SO BAD BRO 😭😭😭)  
-- added the following options to the settings menu:
-    Anti-aliasing mode (None, FXAA, MSAA)
-    Max FPS (No Max, 120, 60, 30)
-    V-Sync (which i HIGHLY recommend for better FPS)
-    Texture and Shadow Quality (which Shadow quality does not really work well)
-    Post-Processing (which i have disabled for the time being, as i dont even know WhAT THE FLIP IT IS)
-- When you click on Play as a team you are sent to a concept screen for online multiplayer
-
+- new menu music system
 
 
 !! Bug Fixes 🪲!!
-- funky ah sound delays fixed (good thing Alfredo never noticed it)
+- none. im not joking im literally too lazy.
 
-P.S. if you find bugs, STFU, i dont really care.
+P.S. baller
 
-anyways scoll for your daily  ((EEEE))
+
 -- ThatGuy
 
-PS:
-E
 
 
 
